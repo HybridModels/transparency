@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /wikibox/sitemap_index.xml
+Sitemap: /transparency/sitemap_index.xml
